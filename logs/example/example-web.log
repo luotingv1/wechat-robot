@@ -1,0 +1,422 @@
+2019-08-06 11:00:39,471 ERROR 3449 [-/127.0.0.1/-/9ms GET /] nodejs.ReferenceError: readFilePromise is not defined
+    at HomeController.index (/Volumes/机械/测试项目/node/egg-example/app/controller/home.js:9:16)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 3449
+hostname: luodeMacBook-Air.local
+
+2019-08-06 11:01:23,564 ERROR 3483 [-/127.0.0.1/-/6ms GET /] nodejs.ReferenceError: readFilePromise is not defined
+    at HomeController.index (/Volumes/机械/测试项目/node/egg-example/app/controller/home.js:9:16)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 3483
+hostname: luodeMacBook-Air.local
+
+2019-08-06 11:46:13,019 ERROR 4459 [-/127.0.0.1/-/7ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find /Volumes/机械/测试项目/node/egg-example/app/public/wechat.html from 
+    at Map.resolve (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 4459
+hostname: luodeMacBook-Air.local
+
+2019-08-06 11:46:42,107 ERROR 4479 [-/127.0.0.1/-/6ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find /Volumes/机械/测试项目/node/public/wechat.html from 
+    at Map.resolve (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 4479
+hostname: luodeMacBook-Air.local
+
+2019-08-06 11:46:43,074 ERROR 4479 [-/127.0.0.1/-/1ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find /Volumes/机械/测试项目/node/public/wechat.html from 
+    at Map.resolve (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 4479
+hostname: luodeMacBook-Air.local
+
+2019-08-06 11:47:04,234 ERROR 4519 [-/127.0.0.1/-/6ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find /Volumes/机械/测试项目/node/egg-example/public/wechat.html from 
+    at Map.resolve (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 4519
+hostname: luodeMacBook-Air.local
+
+2019-08-06 13:46:18,245 ERROR 7191 [-/127.0.0.1/-/8ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find /Volumes/机械/测试项目/node/egg-example/app/public/wechat.html from 
+    at Map.resolve (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-view/lib/view_manager.js:74:5)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 7191
+hostname: luodeMacBook-Air.local
+
+2019-08-06 13:46:56,407 ERROR 7224 [-/127.0.0.1/-/5ms GET /] nodejs.SyntaxError: Identifier 'page' has already been declared
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:195:33)
+
+pid: 7224
+hostname: luodeMacBook-Air.local
+
+2019-08-06 13:46:57,222 ERROR 7224 [-/127.0.0.1/-/1ms GET /] nodejs.SyntaxError: Identifier 'page' has already been declared
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:195:33)
+
+pid: 7224
+hostname: luodeMacBook-Air.local
+
+2019-08-06 13:46:58,038 ERROR 7224 [-/127.0.0.1/-/1ms GET /] nodejs.SyntaxError: Identifier 'page' has already been declared
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:195:33)
+
+pid: 7224
+hostname: luodeMacBook-Air.local
+
+2019-08-06 14:13:04,390 ERROR 7762 [-/127.0.0.1/-/7ms GET /] nodejs.ENOENTError: ENOENT: no such file or directory, open '/Volumes/机械/测试项目/node/egg-example/app/public/wechat.html'
+ENOENTError: ENOENT: no such file or directory, open '/Volumes/机械/测试项目/node/egg-example/app/public/wechat.html'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "/Volumes/机械/测试项目/node/egg-example/app/public/wechat.html"
+name: "ENOENTError"
+pid: 7762
+hostname: luodeMacBook-Air.local
+
+2019-08-06 14:17:15,971 ERROR 7883 [-/127.0.0.1/-/6ms GET /] nodejs.ENOENTError: ENOENT: no such file or directory, open '/Volumes/机械/测试项目/node/egg-example/app/public/dist/index.html'
+ENOENTError: ENOENT: no such file or directory, open '/Volumes/机械/测试项目/node/egg-example/app/public/dist/index.html'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "/Volumes/机械/测试项目/node/egg-example/app/public/dist/index.html"
+name: "ENOENTError"
+pid: 7883
+hostname: luodeMacBook-Air.local
+
+2019-08-06 15:07:06,214 ERROR 9878 [-/127.0.0.1/-/2ms GET /] nodejs.ENOENTError: ENOENT: no such file or directory, open '/Volumes/机械/测试项目/node/egg-example/app/public/dist/index.html'
+ENOENTError: ENOENT: no such file or directory, open '/Volumes/机械/测试项目/node/egg-example/app/public/dist/index.html'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "/Volumes/机械/测试项目/node/egg-example/app/public/dist/index.html"
+name: "ENOENTError"
+pid: 9878
+hostname: luodeMacBook-Air.local
+
+2019-08-06 15:07:52,933 WARN 9878 [-/127.0.0.1/-/1ms POST /wechat/service/room_fee/lists] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-06 15:07:52,934 WARN 9878 [-/127.0.0.1/-/1ms POST /wechat/service/room_fee/lists] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/app/extend/context.js:157:17)
+    at csrf (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:31:9)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 9878
+hostname: luodeMacBook-Air.local
+
+2019-08-07 08:48:11,400 WARN 1036 [-/127.0.0.1/-/1ms POST /wechat/service/room_fee/lists] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-07 08:48:11,401 WARN 1036 [-/127.0.0.1/-/3ms POST /wechat/service/room_fee/lists] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/app/extend/context.js:157:17)
+    at csrf (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:31:9)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 1036
+hostname: luodeMacBook-Air.local
+
+2019-08-13 10:20:31,457 ERROR 3383 [-/127.0.0.1/-/6ms GET /api/getScheduleList] nodejs.TypeError: Cannot read property 'find' of undefined
+    at ModelService.find (/Volumes/机械/测试项目/node/egg-example/app/service/model.js:13:38)
+    at HomeController.getScheduleList (/Volumes/机械/测试项目/node/egg-example/app/controller/home.js:27:41)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at dta (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at xssProtection (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at nosniff (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at noopen (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at notAllow (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/methodnoallow.js:21:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at csrf (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:24:14)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-override/index.js:13:70)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-bodyparser/index.js:86:11)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+
+pid: 3383
+hostname: luodeMacBook-Air.local
+
+2019-08-13 10:20:45,542 ERROR 3383 [-/127.0.0.1/-/1ms GET /api/getScheduleList] nodejs.TypeError: Cannot read property 'find' of undefined
+    at ModelService.find (/Volumes/机械/测试项目/node/egg-example/app/service/model.js:13:38)
+    at HomeController.getScheduleList (/Volumes/机械/测试项目/node/egg-example/app/controller/home.js:27:41)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at dta (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at xssProtection (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at nosniff (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at noopen (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at notAllow (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/methodnoallow.js:21:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at csrf (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:24:14)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-override/index.js:13:70)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-bodyparser/index.js:86:11)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+
+pid: 3383
+hostname: luodeMacBook-Air.local
+
+2019-08-13 10:26:35,474 ERROR 3481 [-/127.0.0.1/-/7ms GET /api/getScheduleList] nodejs.TypeError: Cannot read property 'find' of undefined
+    at ModelService.find (/Volumes/机械/测试项目/node/egg-example/app/service/model.js:14:38)
+    at HomeController.getScheduleList (/Volumes/机械/测试项目/node/egg-example/app/controller/home.js:27:41)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at dta (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at xssProtection (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at nosniff (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at noopen (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at notAllow (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/methodnoallow.js:21:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at csrf (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:24:14)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-override/index.js:13:70)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-bodyparser/index.js:86:11)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+
+pid: 3481
+hostname: luodeMacBook-Air.local
+
+2019-08-13 10:27:10,451 ERROR 3539 [-/127.0.0.1/-/8ms GET /api/getScheduleList] nodejs.TypeError: Cannot read property 'find' of undefined
+    at ModelService.find (/Volumes/机械/测试项目/node/egg-example/app/service/model.js:14:38)
+    at HomeController.getScheduleList (/Volumes/机械/测试项目/node/egg-example/app/controller/home.js:27:41)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at dta (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at xssProtection (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/xssProtection.js:7:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at nosniff (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/nosniff.js:8:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at noopen (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/noopen.js:8:11)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at notAllow (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/methodnoallow.js:21:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at csrf (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:24:14)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-override/index.js:13:70)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-bodyparser/index.js:86:11)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+
+pid: 3539
+hostname: luodeMacBook-Air.local
+
+2019-08-13 13:50:02,454 WARN 6630 [-/127.0.0.1/-/100ms POST /api/addSchedule] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-13 13:50:02,456 WARN 6630 [-/127.0.0.1/-/101ms POST /api/addSchedule] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/app/extend/context.js:154:19)
+    at csrf (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-bodyparser/index.js:86:11)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+message: "missing csrf token"
+pid: 6630
+hostname: luodeMacBook-Air.local
+
+2019-08-13 13:55:00,409 ERROR 6727 [-/127.0.0.1/-/11ms POST /api/addSchedule] nodejs.TypeError: ctx.service.model.create is not a function
+    at HomeController.addSchedule (/Volumes/机械/测试项目/node/egg-example/app/controller/home.js:12:41)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Volumes/机械/测试项目/node/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Volumes/机械/测试项目/node/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Volumes/机械/测试项目/node/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Volumes/机械/测试项目/node/egg-example/node_modules/koa-bodyparser/index.js:86:11)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+
+pid: 6727
+hostname: luodeMacBook-Air.local
+

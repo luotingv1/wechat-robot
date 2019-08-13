@@ -1,0 +1,24 @@
+2019-08-13 13:59:00,958 INFO 6968 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-13 13:59:00,958 INFO 6968 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-08-13 13:59:00,958 INFO 6968 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-13 13:59:01,272 INFO 6963 [Timer] /Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 52258730ms at 2019-08-14 04:30:00.002
+2019-08-13 13:59:01,273 INFO 6963 [Timer] /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 36058727ms at 2019-08-14 00:00:00.000
+2019-08-13 13:59:01,273 INFO 6963 [Timer] /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 36059727ms at 2019-08-14 00:00:01.000
+2019-08-13 13:59:42,780 INFO 6998 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-13 13:59:42,780 INFO 6998 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-08-13 13:59:42,780 INFO 6998 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-13 14:00:23,584 INFO 7028 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-13 14:00:23,584 INFO 7028 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-08-13 14:00:23,584 INFO 7028 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-13 14:00:49,964 INFO 7075 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-13 14:00:49,964 INFO 7075 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-08-13 14:00:49,964 INFO 7075 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-13 14:01:13,372 INFO 7103 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-13 14:01:13,372 INFO 7103 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-08-13 14:01:13,372 INFO 7103 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-13 14:01:37,286 INFO 7131 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-13 14:01:37,286 INFO 7131 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-08-13 14:01:37,286 INFO 7131 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-08-13 14:02:02,058 INFO 7160 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-08-13 14:02:02,058 INFO 7160 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-08-13 14:02:02,058 INFO 7160 [egg-schedule]: register schedule /Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

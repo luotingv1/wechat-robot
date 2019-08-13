@@ -1,0 +1,262 @@
+{
+  "keys": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "middleware": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "mongoose": {
+    "url": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+    "options": {
+      "useNewUrlParser": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js"
+    },
+    "plugins": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-mongoose/config/config.default.js",
+    "loadModel": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-mongoose/config/config.default.js",
+    "app": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-mongoose/config/config.default.js",
+    "agent": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-mongoose/config/config.default.js"
+  },
+  "NAME": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "NICKNAME": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "MEMORIAL_DAY": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "CITY": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "LOCATION": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "SENDDATE": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "ONE": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "MOJI_HOST": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "ROOMNAME": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "AIBOTAPI": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "APIKEY": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "AUTOREPLY": "/Volumes/机械/测试项目/node/egg-example/config/config.default.js",
+  "session": {
+    "maxAge": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "private": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "egg-helper": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mongoose": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "cheerio": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "autod": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "eslint": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "wechaty": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "qrcode-terminal": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "node-schedule": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "stop": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "dev": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "debug": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "test-local": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "cov": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "lint": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "ci": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "autod": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "url": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Volumes/机械/测试项目/node/egg-example/node_modules/egg/config/config.default.js"
+}

@@ -1,0 +1,70 @@
+2019-08-13 13:59:00,937 INFO 6968 [egg:logger] init all loggers with options: {"dir":"/Volumes/机械/测试项目/node/egg-example/logs/egg-wechat","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-wechat-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-13 13:59:00,958 INFO 6968 [egg-multipart] stream mode enable
+2019-08-13 13:59:01,199 INFO 6968 [egg-mongoose] connecting mongodb://127.0.0.1/wechatAssitant
+2019-08-13 13:59:01,228 INFO 6968 [egg-static] starting static serve /public/ -> /Volumes/机械/测试项目/node/egg-example/app/public
+2019-08-13 13:59:01,235 INFO 6968 [egg:core] dump config after load, 4ms
+2019-08-13 13:59:01,237 INFO 6968 [egg-mongoose] starting...
+2019-08-13 13:59:01,256 INFO 6968 [egg-mongoose] mongodb://127.0.0.1/wechatAssitant connected successfully
+2019-08-13 13:59:01,256 INFO 6968 [egg-mongoose] instance[0] start successfully
+2019-08-13 13:59:01,258 INFO 6968 [egg-watcher:application] watcher start success
+2019-08-13 13:59:01,267 INFO 6968 [egg:core] dump config after ready, 3ms
+2019-08-13 13:59:42,758 INFO 6998 [egg:logger] init all loggers with options: {"dir":"/Volumes/机械/测试项目/node/egg-example/logs/egg-wechat","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-wechat-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-13 13:59:42,780 INFO 6998 [egg-multipart] stream mode enable
+2019-08-13 13:59:43,044 INFO 6998 [egg-mongoose] connecting mongodb://127.0.0.1/wechatAssitant
+2019-08-13 13:59:43,080 INFO 6998 [egg-static] starting static serve /public/ -> /Volumes/机械/测试项目/node/egg-example/app/public
+2019-08-13 13:59:43,089 INFO 6998 [egg:core] dump config after load, 4ms
+2019-08-13 13:59:43,090 INFO 6998 [egg-mongoose] starting...
+2019-08-13 13:59:43,111 INFO 6998 [egg-mongoose] mongodb://127.0.0.1/wechatAssitant connected successfully
+2019-08-13 13:59:43,112 INFO 6998 [egg-mongoose] instance[0] start successfully
+2019-08-13 13:59:43,114 INFO 6998 [egg-watcher:application] watcher start success
+2019-08-13 13:59:43,124 INFO 6998 [egg:core] dump config after ready, 3ms
+2019-08-13 14:00:23,556 INFO 7028 [egg:logger] init all loggers with options: {"dir":"/Volumes/机械/测试项目/node/egg-example/logs/egg-wechat","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-wechat-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-13 14:00:23,584 INFO 7028 [egg-multipart] stream mode enable
+2019-08-13 14:00:23,962 INFO 7028 [egg-mongoose] connecting mongodb://127.0.0.1/wechatAssitant
+2019-08-13 14:00:23,995 INFO 7028 [egg-static] starting static serve /public/ -> /Volumes/机械/测试项目/node/egg-example/app/public
+2019-08-13 14:00:24,002 INFO 7028 [egg:core] dump config after load, 4ms
+2019-08-13 14:00:24,004 INFO 7028 [egg-mongoose] starting...
+2019-08-13 14:00:24,024 INFO 7028 [egg-mongoose] mongodb://127.0.0.1/wechatAssitant connected successfully
+2019-08-13 14:00:24,025 INFO 7028 [egg-mongoose] instance[0] start successfully
+2019-08-13 14:00:24,027 INFO 7028 [egg-watcher:application] watcher start success
+2019-08-13 14:00:24,036 INFO 7028 [egg:core] dump config after ready, 3ms
+2019-08-13 14:00:49,942 INFO 7075 [egg:logger] init all loggers with options: {"dir":"/Volumes/机械/测试项目/node/egg-example/logs/egg-wechat","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-wechat-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-13 14:00:49,964 INFO 7075 [egg-multipart] stream mode enable
+2019-08-13 14:00:50,220 INFO 7075 [egg-mongoose] connecting mongodb://127.0.0.1/wechatAssitant
+2019-08-13 14:00:50,252 INFO 7075 [egg-static] starting static serve /public/ -> /Volumes/机械/测试项目/node/egg-example/app/public
+2019-08-13 14:00:50,259 INFO 7075 [egg:core] dump config after load, 4ms
+2019-08-13 14:00:50,261 INFO 7075 [egg-mongoose] starting...
+2019-08-13 14:00:50,281 INFO 7075 [egg-mongoose] mongodb://127.0.0.1/wechatAssitant connected successfully
+2019-08-13 14:00:50,281 INFO 7075 [egg-mongoose] instance[0] start successfully
+2019-08-13 14:00:50,283 INFO 7075 [egg-watcher:application] watcher start success
+2019-08-13 14:00:50,292 INFO 7075 [egg:core] dump config after ready, 3ms
+2019-08-13 14:01:13,351 INFO 7103 [egg:logger] init all loggers with options: {"dir":"/Volumes/机械/测试项目/node/egg-example/logs/egg-wechat","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-wechat-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-13 14:01:13,373 INFO 7103 [egg-multipart] stream mode enable
+2019-08-13 14:01:13,633 INFO 7103 [egg-mongoose] connecting mongodb://127.0.0.1/wechatAssitant
+2019-08-13 14:01:13,667 INFO 7103 [egg-static] starting static serve /public/ -> /Volumes/机械/测试项目/node/egg-example/app/public
+2019-08-13 14:01:13,674 INFO 7103 [egg:core] dump config after load, 4ms
+2019-08-13 14:01:13,676 INFO 7103 [egg-mongoose] starting...
+2019-08-13 14:01:13,696 INFO 7103 [egg-mongoose] mongodb://127.0.0.1/wechatAssitant connected successfully
+2019-08-13 14:01:13,697 INFO 7103 [egg-mongoose] instance[0] start successfully
+2019-08-13 14:01:13,699 INFO 7103 [egg-watcher:application] watcher start success
+2019-08-13 14:01:13,708 INFO 7103 [egg:core] dump config after ready, 3ms
+2019-08-13 14:01:37,265 INFO 7131 [egg:logger] init all loggers with options: {"dir":"/Volumes/机械/测试项目/node/egg-example/logs/egg-wechat","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-wechat-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-13 14:01:37,286 INFO 7131 [egg-multipart] stream mode enable
+2019-08-13 14:01:37,540 INFO 7131 [egg-mongoose] connecting mongodb://127.0.0.1/wechatAssitant
+2019-08-13 14:01:37,573 INFO 7131 [egg-static] starting static serve /public/ -> /Volumes/机械/测试项目/node/egg-example/app/public
+2019-08-13 14:01:37,582 INFO 7131 [egg:core] dump config after load, 5ms
+2019-08-13 14:01:37,584 INFO 7131 [egg-mongoose] starting...
+2019-08-13 14:01:37,605 INFO 7131 [egg-mongoose] mongodb://127.0.0.1/wechatAssitant connected successfully
+2019-08-13 14:01:37,606 INFO 7131 [egg-mongoose] instance[0] start successfully
+2019-08-13 14:01:37,608 INFO 7131 [egg-watcher:application] watcher start success
+2019-08-13 14:01:37,618 INFO 7131 [egg:core] dump config after ready, 3ms
+2019-08-13 14:02:02,035 INFO 7160 [egg:logger] init all loggers with options: {"dir":"/Volumes/机械/测试项目/node/egg-example/logs/egg-wechat","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-wechat-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-13 14:02:02,059 INFO 7160 [egg-multipart] stream mode enable
+2019-08-13 14:02:02,327 INFO 7160 [egg-mongoose] connecting mongodb://127.0.0.1/wechatAssitant
+2019-08-13 14:02:02,362 INFO 7160 [egg-static] starting static serve /public/ -> /Volumes/机械/测试项目/node/egg-example/app/public
+2019-08-13 14:02:02,371 INFO 7160 [egg:core] dump config after load, 5ms
+2019-08-13 14:02:02,373 INFO 7160 [egg-mongoose] starting...
+2019-08-13 14:02:02,394 INFO 7160 [egg-mongoose] mongodb://127.0.0.1/wechatAssitant connected successfully
+2019-08-13 14:02:02,395 INFO 7160 [egg-mongoose] instance[0] start successfully
+2019-08-13 14:02:02,397 INFO 7160 [egg-watcher:application] watcher start success
+2019-08-13 14:02:02,407 INFO 7160 [egg:core] dump config after ready, 3ms
